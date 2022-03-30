@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+a,
+span {
+    text-decoration: none;
+}
+
+
+ul,
+li,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {}
+
+header  {
+    
+   
+}
+
+header  .header_links {
+
+    background-color: #282828;
+    border: 1px solid red;
+    display: flex;
+    width: 100%;
+    
+}
+
+.header  .header_links  {}
+
+
+header  .header_link  li {
+  
+    padding: 10px 10px;
+   
+}
+
+header  .header_link li a {
+   
+   
+}
+
+
+header  .header_link li a i {
+    color: aliceblue;
+}
