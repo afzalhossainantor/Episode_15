@@ -297,6 +297,10 @@ nav .nav_body .sign_button span {
     text-align: center;
 }
 
+/* .common_heading h2{
+    background-color: var(--white);
+} */
+
 /***common heading part end**/
 
 
@@ -312,6 +316,7 @@ nav .nav_body .sign_button span {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.745);
     /* padding-top: 100px; */
     /* padding-bottom: 70px; */
+    /* background-color: var(--white); */
 
 }
 
@@ -420,6 +425,7 @@ nav .nav_body .sign_button span {
 
 #services {
     padding-bottom: 100px;
+    background-color: var(--white);
 }
 
 #services .service_body {
@@ -543,7 +549,9 @@ nav .nav_body .sign_button span {
 
 /** data_integration part start**/
 
-#data_integration {}
+#data_integration {
+    background-color: #fcfcfc;
+}
 
 #data_integration .edition_body {
     border: var(--border);
@@ -628,7 +636,9 @@ nav .nav_body .sign_button span {
 
 /**footer part start**/
 
-#footer {}
+#footer {
+    background-color: #efefef;
+}
 
 #footer .footer_top {
     padding-top: 70px;
@@ -719,6 +729,7 @@ nav .nav_body .sign_button span {
     padding-top: 45px;
     padding-bottom: 10px;
     border: var(--border);
+    background-color: #efefef;
 }
 
 #footer .footer_bottom img {}
