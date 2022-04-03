@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css ">
     <link rel="stylesheet" href="./assets/styles/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/styles/bootstrap.min.css.map">
-    <link rel="stylesheet" href="./assets/styles/responsive.css">
     <link rel="stylesheet" href="./assets/styles/style.css">
+    <link rel="stylesheet" href="./assets/styles/responsive.css">
 </head>
 
 <body>
@@ -21,9 +21,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-8">
-
-
+                <div class="col-sm-12 col-md-8">
                     <ul class="header_links">
                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -32,7 +30,7 @@
                     </ul>
                 </div>
 
-                <div class="col-4">
+                <div class="col-sm-12 col-md-2">
                     <div class="header_contact">
 
                         <ul>
@@ -55,7 +53,6 @@
                 </div>
             </div>
         </div>
-
     </header>
     <!-- header part end -->
 
@@ -63,25 +60,33 @@
     <nav>
         <div class="container">
             <div class="row">
-                <div class="col-4">
+                <div class="col-sm-12 col-md-2">
                     <div class="logo_img">
                         <img src="./assets/images/logo.png" alt="">
                     </div>
                 </div>
 
-                <div class="col-8">
+                <div class="col-sm-12 col-md-8 order-3 order-sm-2">
                     <div class="nav_body">
-                        <ul class="nav_links">
+                        <ul id="nav_link" class="nav_links">
                             <li><a href="#">Products</a></li>
                             <li><a href="#">Solutions</a></li>
                             <li><a href="#">Support</a></li>
 
                         </ul>
-                        <a href="#" class="sign_button">
-                            <span>Sign in</span>
-                        </a>
+
                     </div>
                 </div>
+                <div class="col-sm-12 col-md-2 order-2 order-sm-3">
+                    <button onclick="nav_link.classList.toggle('active')"
+                        class=" btn btn-warning float-end  d-md-none d-block toggle_btn">
+                        <i class="fa-solid fa-align-justify"></i>
+                    </button>
+                    <a href="#" class="sign_button">
+                        <span>Sign in</span>
+                    </a>
+                </div>
+
             </div>
         </div>
     </nav>
@@ -133,8 +138,8 @@
                 </h2>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-6">
+                <div class="col-sm-0"></div>
+                <div class="col-sm-12">
 
                     <div class="sign_up">
 

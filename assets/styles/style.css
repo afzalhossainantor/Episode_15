@@ -118,7 +118,7 @@ nav .nav_body {
 
 }
 
-/* nav .nav_body .nav_links {} */
+nav .nav_body .nav_links {}
 
 nav .nav_body .nav_links {
 
@@ -146,12 +146,12 @@ nav .nav_body .nav_links li a {
 
 /* nav . .nav_body .nav_links li a i {} */
 
-nav .nav_body .sign_button {
+nav .sign_button {
     padding-top: 27px;
     padding-bottom: 25px;
 }
 
-nav .nav_body .sign_button span {
+nav .sign_button span {
     display: flex;
     font-size: 12px;
     line-height: 12px;
@@ -213,6 +213,8 @@ nav .nav_body .sign_button span {
     padding-bottom: 85px;
     /* border: var(--border); */
 }
+
+
 
 /* #banner .banner_img img {} */
 
@@ -332,7 +334,7 @@ nav .nav_body .sign_button span {
     font-size: 20px;
     line-height: 20px;
     color: #d3d3d3;
-    border: var(--border);
+    /* border: var(--border); */
 }
 
 #community .sign_up .sign_up_arrow ul li i {}
@@ -340,7 +342,7 @@ nav .nav_body .sign_button span {
 #community .sign_up .signup_precess {
     display: flex;
     padding-left: 160px;
-    border: var(--border);
+    /* border: var(--border); */
 }
 
 #community .sign_up .signup_precess .left_icon {
