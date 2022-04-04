@@ -142,14 +142,201 @@
     #community .sign_up .signup_precess .left_icon {
         padding-right: 15px;
     }
-    
-    #community .sign_up .sign_up_arrow ul li i {
-        padding-right: 44px;
-    }
-
+   
     #community .sign_up .signup_precess {
         padding-bottom: 19px;
         padding-left: 70px;
+    }
+
+    #community .sign_up .sign_up_arrow ul li i {
+        padding-right: 24px;
+    }
+
+    #community .community_process {
+       
+        padding-top: 20px;
+     
+    }
+
+    #community .community_process {
+        padding-top: 15px;
+    }
+
+    #community .community_process p {
+       
+        line-height: 10px;
+        padding-top: 10px;
+    }
+
+    #community {
+        background-color: #f9f9f9;
+        padding-bottom: 20px;
+    }
+
+    .common_heading h2 {
+        font-size: 30px;
+        line-height: 45px;
+       
+    }
+
+    .common_heading {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+
+    #services .service_body h2 {
+        
+        line-height: 40px;
+        
+    }
+
+   
+    #services .service_body .count_part p {
+       
+        line-height: 7px;
+      
+    }
+
+    #services .service_body .count_part h2 {
+        font-size: 25px;
+        line-height: 20px;
+        padding-top: 30px;
+    }
+
+    #services .service_body .service_list {
+        padding-top: 18px;
+        padding-bottom: 17px;
+    }
+    #services .service_body .service_list ul li i.icon_green {
+        
+        line-height: 25px;
+       
+    }
+
+    #services .service_body .link_button a {
+       
+        line-height: 30px;
+        height: 29px;
+        width: 107px;
+        border-radius: 35px;
+      
+    }
+
+    #services .service_body .link_button {
+        
+        padding-bottom: 25px;
+    }
+
+    #services {
+        padding-bottom: 20px;
+       
+    }
+
+    .common_heading h2 {
+        font-size: 24px;
+        line-height: 38px;
+      
+    }
+
+    #data_integration .edition_body .icon_part {
+        padding-top: 35px;
+        padding-bottom: 20px;
+    }
+
+    #data_integration .edition_body h2 {
+        font-size: 15px;
+        line-height: 13px;
+        padding-top: 22px;
+        padding-bottom: 23px;
+        
+    }
+
+    #data_integration .edition_body p {
+        font-size: 11px;
+        line-height: 19px;
+        padding-bottom: 39px;
+        
+    }
+
+    #data_integration .edition_body {
+       
+        margin-bottom: 15px;
+       
+    }
+
+    #footer .footer_top {
+        padding-top: 40px;
+       
+    }
+
+    #footer .footer_top .newsletter .heading_1 h2 {
+        padding-bottom: 30px;
+        font-size: 15px;
+        line-height: 10px;
+      
+    }
+
+    #footer .footer_top .newsletter .heading_1 p {
+        padding-bottom: 12px;
+        font-size: 11px;
+        line-height: 16px;
+      
+    }
+
+    #footer .footer_top .newsletter form .search {
+        font-size: 11px;
+        line-height: 10px;
+        padding-left: 10px;
+       
+    }
+
+    #footer .footer_top .newsletter form button {
+      
+        padding: 16px 25px;
+    
+    }
+
+    #footer .footer_top .newsletter form {
+        padding-bottom: 45px;
+       
+    }
+
+    #footer .footer_top .quick_links h2 {
+        padding-bottom: 20px;
+        font-size: 15px;
+        line-height: 13px;
+      
+    }
+
+    #footer .footer_top .quick_links ul li {
+        font-size: 12px;
+        line-height: 20px;
+      
+    }
+
+    #footer .footer_top .quick_links h2 {
+        padding-bottom: 19px;
+        font-size: 15px;
+        line-height: 13px;
+        padding-top: 15px;
+    }
+
+    #footer #footer_bottom {
+        padding-top: 25px;
+        padding-bottom: 0px;
+       
+    }
+
+    #footer_bottom p {
+        font-size: 11px;
+        line-height: 15px;
+        text-align: center;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    #footer_bottom .footer_logo {
+        text-align: center;
     }
 }
 
@@ -172,27 +359,532 @@
 
     nav .nav_body .nav_links li {
         margin-right: 37px;
-        padding-top: 13px;
+        padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
        
     }
 
     nav .sign_button span {
-       float: right;
-       /* margin-bottom: 15px; */
+        
+        margin-bottom: 15px;
+        margin-left: 64px;
+        margin-top: 7px;
     }
+
+    .toggle_btn {
+        margin-top: 18px;
+       
+    }
+    
+    nav .logo_img {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    header .header_links li {
+        padding: 5px 8px;
+    }
+
+    header .header_contact ul li {
+        margin-right: 12px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    header .header_contact ul {
+        display: flex;
+      
+    }
+   
+    header .header_contact ul li {
+        margin-right: 9px;
+        padding-top: 5px;
+    }
+
+
+    nav .sign_button {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #banner .banner_content h1 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+
+    #banner .banner_content {
+        padding-top: 55px;
+        padding-bottom: 35px;
+        /* border: var(--border); */
+    }
+
+    #banner .banner_content p {
+        height: 47px;
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 15px;
+    }
+
+   
+
+    #banner .banner_img img{
+       
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    #banner .banner_img {
+       
+        padding-bottom: 40px;
+       
+    }
+
+    #banner .paragraph p {
+
+        line-height: 23px;
+      
+    }
+
+    #banner .paragraph {
+        padding-top: 20px;
+        padding-bottom: 20px;
+       
+    }
+
+    .common_heading {
+        padding-top: 35px;
+        padding-bottom: 30px;
+       
+    }
+
+    #community .sign_up .sign_up_arrow {
+        padding-top: 17px;
+        padding-bottom: 17px;
+       
+    }
+    #community .sign_up .signup_precess {
+        padding-bottom: 18px;
+    }
+
+   
+    #community .sign_up .signup_precess .right h2 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    
+    #community .sign_up .signup_precess .left_icon i {
+        font-size: 45px;
+    }
+
+    #community .sign_up .signup_precess .left_icon i {
+        font-size: 50px;
+    }
+    #community .sign_up .signup_precess .left_icon {
+        padding-right: 27px;
+    }
+   
+    #community .sign_up .signup_precess {
+        padding-bottom: 50px;
+        padding-left: 137px;
+    }
+
+    #community .sign_up .sign_up_arrow ul li i {
+        padding-right: 70px;
+    }
+
+    #community .community_process {
+       
+        padding-top: 20px;
+     
+    }
+
+    #community .community_process {
+        padding-top: 22px;
+    }
+
+    #community .community_process p {
+       
+        line-height: 10px;
+        padding-top: 10px;
+    }
+
+    #community {
+        background-color: #f9f9f9;
+        padding-bottom: 25px;
+    }
+
+    #services .service_body h2 {
+        font-size: 16px;
+       
+    }
+
+    .common_heading h2 {
+        font-size: 30px;
+        line-height: 45px;
+       
+    }
+
+    .common_heading {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .common_heading {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    } 
+
+    .common_heading h2 {
+        font-size: 28px;
+        
+    }
+
+    
+    nav .sign_button {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-top: 15px;
+    }
+
+    #services .service_body h2 {
+        
+        line-height: 40px;
+        
+    }
+
+    #services .service_body .count_part {
+       
+        height: 95px;
+        width: 95px;
+       
+    }
+
+    #services .service_body .link_button a {
+        line-height: 35px;
+        height: 36px;
+        width: 130px;
+        border-radius: 45px;
+    }
+
+
+    #services .service_body .count_part p {
+       
+        line-height: 7px;
+      
+    }
+
+    #services .service_body .count_part h2 {
+        font-size: 30px;
+        line-height: 23px;
+        padding-top: 30px;
+    }
+
+    #services .service_body .service_list {
+        padding-top: 18px;
+        padding-bottom: 17px;
+    }
+    #services .service_body .service_list ul li i.icon_green {
+        
+        line-height: 28px;
+       
+    }
+
+    #services .service_body .link_button a {
+       
+        line-height: 30px;
+        height: 29px;
+        width: 107px;
+        border-radius: 35px;
+      
+    }
+
+    #services .service_body .link_button {
+        
+        padding-bottom: 25px;
+    }
+
+    #services {
+        padding-bottom: 20px;
+       
+    }
+
+    .common_heading h2 {
+        font-size: 24px;
+        line-height: 38px;
+      
+    }
+
+    #data_integration .edition_body .icon_part {
+        padding-top: 35px;
+        padding-bottom: 20px;
+    }
+
+    #data_integration .edition_body h2 {
+        font-size: 15px;
+        line-height: 13px;
+        padding-top: 22px;
+        padding-bottom: 23px;
+        
+    }
+
+    #data_integration .edition_body p {
+        font-size: 11px;
+        line-height: 19px;
+        padding-bottom: 39px;
+        
+    }
+
+    #data_integration .edition_body {
+       
+        margin-bottom: 15px;
+       
+    }
+
+    #footer .footer_top {
+        padding-top: 40px;
+       
+    }
+
+    #footer .footer_top .newsletter .heading_1 h2 {
+        padding-bottom: 30px;
+        font-size: 15px;
+        line-height: 10px;
+      
+    }
+
+    #footer .footer_top .newsletter .heading_1 p {
+        padding-bottom: 12px;
+        font-size: 11px;
+        line-height: 16px;
+      
+    }
+
+    #footer .footer_top .newsletter form .search {
+        font-size: 11px;
+        line-height: 10px;
+        padding-left: 10px;
+       
+    }
+
+    #footer .footer_top .newsletter form button {
+      
+        padding: 16px 25px;
+    
+    }
+
+    #footer .footer_top .newsletter form {
+        padding-bottom: 45px;
+       
+    }
+
+    #footer .footer_top .quick_links h2 {
+        padding-bottom: 20px;
+        font-size: 15px;
+        line-height: 13px;
+      
+    }
+
+    #footer .footer_top .quick_links ul li {
+        font-size: 12px;
+        line-height: 20px;
+      
+    }
+
+    #footer .footer_top .quick_links h2 {
+        padding-bottom: 12px;
+        font-size: 15px;
+        line-height: 13px;
+        padding-top: 0px;
+    }
+
+    #footer #footer_bottom {
+        padding-top: 25px;
+        padding-bottom: 0px;
+       
+    }
+
+    #footer_bottom p {
+        font-size: 11px;
+        line-height: 15px;
+        text-align: center;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
    
 }
 
 /* // `md` applies to small devices (landscape phones, less than 768px) */
-@media (min-width: 768px) and (max-width: 991.98px) {}
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+    header .header_links li {
+        padding: 10px 5px;
+    }
+
+    header .header_contact ul li {
+        margin-right: 21px;
+        padding-top: 11px;
+        /* margin-left: 102px; */
+    }
+
+    nav .nav_body .nav_links li {
+        margin-right: 25px;
+        padding-top: 39px;
+        padding-bottom: 25px;
+    }
+
+    nav .sign_button span {
+     
+        font-size: 13px;
+        line-height: 13px;
+        padding: 9px 27px;
+        border-radius: 20px;
+      
+    }
+    #community .community_process p {
+        font-size: 12px;
+        line-height: 17px;
+        padding-top: 12px;
+    }
+
+    nav .sign_button span {
+        font-size: 13px;
+        line-height: 13px;
+        padding: 9px 27px;
+        border-radius: 20px;
+    }
+
+    nav .sign_button {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+
+    #banner .banner_content {
+      
+        padding-bottom: 60px;
+       
+    }
+
+    #banner .banner_img {
+       
+        padding-bottom: 70px;
+        
+    }
+
+    #banner .paragraph {
+        padding-top: 10px;
+        padding-bottom: 50px;
+        /* border: var(--border); */
+    }
+
+    .common_heading {
+        padding-top: 50px;
+        padding-bottom: 50px;
+      
+        
+    }
+
+    #community .sign_up .sign_up_arrow {
+     
+        margin-right: 120px;
+    }
+
+
+    #community .sign_up .signup_precess {
+       
+        padding-left: 190px;
+       
+    }
+
+    #community {
+      
+        padding-bottom: 40px;
+    }
+
+    #community .sign_up .signup_precess .left_icon i {
+        font-size: 55px;
+      
+    }
+     .logo_img img{
+        width: 100%;
+    }
+
+
+}
 
 /* // `lg` applies to medium devices (tablets, less than 992px) */
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    #banner .banner_content h1 {
+        font-size: 48px;
+        line-height: 43px;
+     
+    }
+
+    #banner .banner_content p {
+        height: 48px;
+        font-size: 13px;
+        line-height: 25px;
+        padding-top: 23px;
+    }
+
+    #banner .banner_img {
+     
+        padding-bottom: 70px;
+       
+    }
+
+    #banner .paragraph {
+        padding-top: 10px;
+        padding-bottom: 45px;
+       
+        
+    }
+
+    .common_heading {
+        padding-top: 53px;
+        padding-bottom: 46px;
+      
+    }
+
+    #community .sign_up .signup_precess {
+        padding-bottom: 80px;
+      
+        margin-left: 150px;
+    }
+
+    #community .sign_up .sign_up_arrow {
+        padding-top: 30px;
+        padding-bottom: 30px;
+       
+        margin-right: 90px;
+    }
+
+    #community {
+       
+        
+        padding-bottom: 50px;
+    }
+
+    #community .community_process {
+       
+        padding-top: 50px;
+       
+    }
+
+  
+}
 
 /* // `xl` applies to large devices (desktops, less than 1200px) */
-@media (min-width: 1200px) and (max-width: 1399.98px) {}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #community {
+       
+        padding-bottom: 60px;
+    }
+}
 
 /* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
 @media (max-width: 1400px) {}

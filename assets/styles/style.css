@@ -109,7 +109,7 @@ nav {
 nav .logo_img {
     padding-top: 30px;
     padding-bottom: 30px;
-}
+} 
 
 nav .nav_body {
     /* border: var(--border); */
@@ -287,7 +287,7 @@ nav .sign_button span {
 .common_heading {
     padding-top: 100px;
     padding-bottom: 40px;
-    border: var(--border);
+    /* border: var(--border); */
 }
 
 .common_heading h2 {
@@ -314,8 +314,8 @@ nav .sign_button span {
 }
 
 #community .sign_up {
-    border: var(--border);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.745);
+    /* border: var(--border); */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.243);
     /* padding-top: 100px; */
     /* padding-bottom: 70px; */
     /* background-color: var(--white); */
@@ -337,7 +337,7 @@ nav .sign_button span {
     /* border: var(--border); */
 }
 
-#community .sign_up .sign_up_arrow ul li i {}
+/* #community .sign_up .sign_up_arrow ul li i {} */
 
 #community .sign_up .signup_precess {
     display: flex;
@@ -358,7 +358,7 @@ nav .sign_button span {
     padding-bottom: 70px;
 }
 
-#community .sign_up .signup_precess .right {}
+/* #community .sign_up .signup_precess .right {} */
 
 #community .sign_up .signup_precess .right h2 {
     font-size: 26px;
@@ -368,7 +368,7 @@ nav .sign_button span {
     font-family: var(--roboto);
 }
 
-#community .sign_up .signup_precess .right h2 ul {}
+/* #community .sign_up .signup_precess .right h2 ul {} */
 
 #community .sign_up .signup_precess .right h2 ul li {
 
@@ -382,7 +382,7 @@ nav .sign_button span {
 #community .community_process {
     text-align: center;
     padding-top: 40px;
-    border: var(--border);
+    /* border: var(--border); */
 
 }
 
@@ -431,7 +431,7 @@ nav .sign_button span {
 }
 
 #services .service_body {
-    border: var(--border);
+    /* border: var(--border); */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.527);
 }
 
@@ -454,7 +454,7 @@ nav .sign_button span {
 
 #services .service_body .count_part {
     border: 1px solid var(--brand_color);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.508);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.271);
     border-radius: 50%;
     height: 90px;
     width: 90px;
@@ -492,7 +492,7 @@ nav .sign_button span {
     text-align: center;
 }
 
-#services .service_body .service_list ul li {}
+/* #services .service_body .service_list ul li {} */
 
 #services .service_body .service_list ul li i {
     margin-right: 10px;
@@ -527,7 +527,7 @@ nav .sign_button span {
     font-weight: 400;
     font-family: var(--roboto);
     text-align: center;
-    border: var(--border);
+    /* border: var(--border); */
     height: 30px;
     width: 120px;
     border-radius: 20px;
@@ -556,8 +556,8 @@ nav .sign_button span {
 }
 
 #data_integration .edition_body {
-    border: var(--border);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.337);
+    /* border: var(--border); */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.262);
     margin-bottom: 30px;
     transition-duration: .3s;
 }
@@ -644,13 +644,13 @@ nav .sign_button span {
 
 #footer .footer_top {
     padding-top: 70px;
-    border: var(--border);
+    /* border: var(--border); */
     /* padding-bottom: 50px; */
 }
 
-#footer .footer_top .newsletter {}
+/* #footer .footer_top .newsletter {} */
 
-#footer .footer_top .newsletter .heading_1 {}
+/* #footer .footer_top .newsletter .heading_1 {} */
 
 #footer .footer_top .newsletter .heading_1 h2 {
     padding-bottom: 40px;
@@ -704,7 +704,7 @@ nav .sign_button span {
 }
 
 
-#footer .footer_top .quick_links {}
+/* #footer .footer_top .quick_links {} */
 
 #footer .footer_top .quick_links h2 {
     padding-bottom: 40px;
@@ -716,7 +716,7 @@ nav .sign_button span {
     font-family: var(--roboto);
 }
 
-#footer .footer_top .quick_links ul {}
+/* #footer .footer_top .quick_links ul {} */
 
 #footer .footer_top .quick_links ul li {
     font-size: 13px;
@@ -730,11 +730,11 @@ nav .sign_button span {
 #footer #footer_bottom {
     padding-top: 45px;
     padding-bottom: 10px;
-    border: var(--border);
+    /* border: var(--border); */
     background-color: #efefef;
 }
 
-#footer .footer_bottom img {}
+/* #footer .footer_bottom .footer_logo img {} */
 
 #footer_bottom p {
     font-size: 11px;
